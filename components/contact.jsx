@@ -7,20 +7,20 @@ const Contact  = () => {
             <div className={styles.contact}>
                 <h1>Contact Us</h1>
                     <div className={styles.gmailicon}>
-                        <img src="gmail.png"className={styles.image1}/><div className={styles.gmail}>ResearchLibrary@gmail.com</div>
+                        <image src="gmail.png"className={styles.image1}/><div className={styles.gmail}>ResearchLibrary@gmail.com</div>
                     </div>
                     <div className={styles.phoneicon}>
-                        <img src="telephone.png"className={styles.image2}/><div className={styles.phone}>+63 919 2939 495</div>
+                        <image src="telephone.png"className={styles.image2}/><div className={styles.phone}>+63 919 2939 495</div>
                     </div>
 
             </div>
             <div className={styles.socials}>
                 <h1>Socials</h1>
                 <div className={styles.instaicon}>
-                        <img src="insta.png"className={styles.image3}/><div className={styles.insta}>@Research_Library</div>
+                        <image src="insta.png"className={styles.image3}/><div className={styles.insta}>@Research_Library</div>
                     </div>
                     <div className={styles.twittericon}>
-                        <img src="twitter.png"className={styles.image4}/><div className={styles.twitter}>@Research_Library</div>
+                        <image src="twitter.png"className={styles.image4}/><div className={styles.twitter}>@Research_Library</div>
                     </div>
 
             </div>
