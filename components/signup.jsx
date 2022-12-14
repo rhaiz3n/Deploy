@@ -8,13 +8,13 @@ const Signup  = () => {
             <div className={styles.container}>
                 <div className={styles.divisions}>
                     <div className={styles.image_box}>
-                        <img src="book.png"className={styles.image}  />
+                        <image src="book.png"className={styles.image}  />
                         <div className={styles.context}>
-                            <img src="signup.png" className={styles.singup} />
+                            <image src="signup.png" className={styles.singup} />
                         </div>
                     </div>
                     <div className={styles.signupbox}>
-                        <img src="user_img.png"className={styles.user_icon}  />
+                        <image src="user_img.png"className={styles.user_icon}  />
                         <div className={styles.categories}>
                             <p className={styles.requirements}>Fullname:</p>
                             <input className={styles.input} type="text" name="input_box" />
