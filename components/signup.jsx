@@ -1,5 +1,5 @@
 import styles from "./signup.module.css";
-import Button from "./button.module.css";
+import Button from "./button";
 
 const Signup  = () => {
     return (
