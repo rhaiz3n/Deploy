@@ -3,7 +3,7 @@
     width: 100%;
     height: 952px;
     background: linear-gradient(191.32deg, #0B0311 -1.87%, #0D0315 19.16%, #0E0D0D 78.14%, #11100F 100.05%);
-    display: flex;
+    display: fix;
 }
 
 .divisions {
